@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find 'd:/영서/주식 예측 with NeraulODE' -not -path */.* -not -path */__pycache__/* -type f)"
+    ]
+  }
+}
