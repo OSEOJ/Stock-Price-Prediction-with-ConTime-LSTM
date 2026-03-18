@@ -92,7 +92,7 @@ $$\mathcal{L} = 0.8 \cdot \text{MSE}(\hat{Y},\, Y) + 0.2 \cdot \text{MSE}\!\left
 │   ├── processed/              # 전처리된 데이터
 │   ├── checkpoints/            # 학습된 모델 가중치
 │   └── plots/                  # 시각화 결과
-├── .env                        # API 키 (git 추적 제외)
+├── .env                        # API 키
 └── requirements.txt
 ```
 
